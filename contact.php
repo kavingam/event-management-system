@@ -52,12 +52,71 @@
     </section>
     <section>
         <div class="container">
+            <figure class="d-grid gap-2 d-md-flex justify-content-md-start">
+            <h3>Say Hello!</h3>
+            </figure>
             <div class="row">
             <div class="col-sm-6">
+            <form action="/action_page.php">
+                <div class="mb-3 mt-3">
+                    <label for="name" class="form-label">Full Name</label>
+                    <input type="text" class="form-control" id="name" placeholder="Enter Name" name="name">
+                </div>
+                <div class="mb-3">
+                    <label for="phone" class="form-label">Contact Number</label>
+                    <input type="tel" class="form-control" id="phone" placeholder="Contact Number" name="phone">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Email Address</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email Address">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="6" placeholder="Enter Message"></textarea>
+                </div>
+                <div class="form-check mb-3">
+                <button type="submit" class="btn btn-primary w-100">Submit</button>
+                </div>
                 
+                </form>
             </div>
-            <div class="col-sm-6">6</div>
-            <div class="col-sm-12">12</div>          
+            <div class="col-sm-6">
+            <dl>
+                <dt>Coffee</dt>
+                <dd>- black hot drink</dd>
+                <dt>Milk</dt>
+                <dd>- white cold drink</dd>
+                <dt>Milk</dt>
+                <dd>- white cold drink</dd>
+                <dt>Milk</dt>
+                <dd>- white cold drink</dd>
+                <dt>Milk</dt>
+                <dd>- white cold drink</dd>
+            </dl>  
+            </div>
+            <div class="col-sm-12">
+            <div class="container mt-4 bg-secondary p-5 mb-5">
+                <div class="row">
+                    <div class="col-sm-4">
+                    <div class="card border-secondary h-100">
+                        <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
+                        <!-- <div class="card-body bg-secondary">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        </div> -->
+                    </div>                    
+                    </div>
+                    <div class="col">
+                    <div class="card text-end border-secondary h-100">
+                        <div class="card-body bg-secondary">
+                            <h5 class="text-start card-title">Special title treatment</h5>
+                            <p class="text-start card-text">With supporting text below as a natural lead-in to additional content.</p>
+                            <a href="#" class="btn btn-primary">Learn more</a>
+                        </div>
+                    </div>                
+                </div>
+            </div>
+            </div>          
         </div>
     </section>
     <footer>
