@@ -94,26 +94,26 @@
     start apache server
     start mysql
   ```
-
-### Installation
-
-1. Download Git
+* Download Git
    ```git
       download git exe file
       install git.exe
       search git bash
       git bash open and type git --version
    ```
-3. Clone the repo
+
+### Installation
+
+1. Clone the repo
    ```sh
    git clone https://github.com/kavingam/event-management-system.git
    ```
-4. Install xamp server
+2. Install xamp server
    ```xamp
       download event managemet git folder
       move to xampp/htdoc/
    ```
-5. Run project
+3. Run project
    ```chrome
       open chrome
       search localhost
