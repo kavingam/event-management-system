@@ -1,1 +1,5 @@
-<h1 align="center">Event Management System</h1>
+<div align="center">
+  ## Event Management System
+  <i>code by bhaiti gam</i>
+</div>
+<p align="center"></p>
