@@ -82,6 +82,57 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+
+### Prerequisites
+
+* download xamp server 
+  ```xamp
+    run xamp server
+    start apache server
+    start mysql
+  ```
+
+### Installation
+
+
+
+1. 
+2. Clone the repo
+   ```sh
+   git clone https://github.com/kavingam/event-management-system.git
+   ```
+3. Install xamp server
+
+4. move the event-management-system folder to xamp htdoc folder
+   ```chrome
+      open chrome
+      search localhost
+   ```
+
+<p align="right">(<a href="#">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+<p align="right">(<a href="#">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#">back to top</a>)</p>
+
 <!-- LICENSE -->
 ## License
 
