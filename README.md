@@ -37,9 +37,7 @@
 
 ## About The Project
 
-<a href="https://github.com/kavingam/event-management-system">
-    <img src="https://github.com/kavingam/event-management-system/blob/main/assets/wedding/Wedding_Venues-2.png" alt="wedding card" width="720" height="720">   
-  </a>
+![wedding banner](https://github.com/kavingam/event-management-system/blob/main/assets/wedding/Wedding_Venues-2.png)
 
 *
 *
