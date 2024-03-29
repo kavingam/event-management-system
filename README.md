@@ -48,7 +48,7 @@
 
 ## About The Project
 
-<div align="center">
+<p align="center">
 
     ![wedding banner](https://github.com/kavingam/event-management-system/blob/main/assets/wedding/Wedding_Venues-2.png)
     
@@ -62,7 +62,7 @@
     
     * Event logistics management: Organizers can use the system to manage tasks such as scheduling, speaker coordination, and vendor communication.
 
-</div>
+</p>
 
 <p align="right">(<a href="#">back to top</a>)</p>
 
