@@ -76,11 +76,7 @@
  <img src="https://img.shields.io/badge/Javascript-blue?style=plastic&logo=javascript&color=yellow" alt="javascript">
  <img src="https://img.shields.io/badge/HTML5-dark?style=plastic&logo=html5&color=dark" alt="html5">
  <img src="https://img.shields.io/badge/CSS-dark?style=plastic&logo=css&color=dark" alt="css">
- <br/>
- <p>
-    <i>Database Using </i>
-    <img alt="mysql" src="https://img.shields.io/badge/Mysql-8.3.0v-orrange?style=plastic&logo=mysql&color=dark">
-  </p>
+ <img alt="mysql" src="https://img.shields.io/badge/Mysql-8.3.0v-orrange?style=plastic&logo=mysql&color=dark">
 
 </div>
 
