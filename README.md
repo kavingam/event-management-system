@@ -70,7 +70,7 @@
 
 <div align="center">
  
- <img src="https://img.shields.io/badge/PHP-blue?style=plastic&logo=php&color=green" alt="php">
+ <img src="https://img.shields.io/badge/PHP-8.3v-blue?style=plastic&logo=php&color=green" alt="php">
  <img src="https://img.shields.io/badge/Bootstrap-lastest_5.3.3v-purple?style=plastic&logo=bootstrap&color=purple" alt="bootstrap">
  <img src="https://img.shields.io/badge/jQuery-3.7.1v-dark?style=plastic&logo=jquery&color=dark" alt="jQuery 3.7.1">
  <img src="https://img.shields.io/badge/Javascript-blue?style=plastic&logo=javascript&color=yellow" alt="javascript">
