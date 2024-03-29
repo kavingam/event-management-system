@@ -88,7 +88,7 @@
 
 ### Prerequisites
 
-* download xamp server 
+  * download xamp server 
   ```xamp
     run xamp server
     start apache server
