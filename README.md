@@ -2,11 +2,24 @@
  
   [Event Management System](https://github.com/kavingam/event-management-system)
 
-<a href="https://github.com/kavingam/event-management-system">
+  <a href="https://github.com/kavingam/event-management-system">
     <img src="https://github.com/kavingam/event-management-system/blob/main/assets/icons/event-management.png" alt="Logo" width="80" height="80">   
   </a>
   
-  <i>code by bhaiti gam</i>
+   <h3 align="center">Event Management System</h3>
+
+  <p align="center">
+     code by <a href="#"><img alt="kavingam" src="https://img.shields.io/badge/Github-kavingam-red?style=plastic&logo=github&color=green"></a>
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
 
 </div>
 <!-- TABLE OF CONTENTS -->
