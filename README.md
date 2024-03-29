@@ -69,4 +69,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
   <img src="https://img.shields.io/badge/GitHub-Resource-rgb(21%20166%20157)%3B?style=for-the-badge&logo=github&color=rgb(21%20166%20157)" alt="Github">
 </a>
 
+<a href="">
+ <img src="https://img.shields.io/badge/Gmail-Address-rgb(21%20166%20157)%3B?style=for-the-badge&logo=gmail&color=rgb(21%20166%20157)" alt="Gmail">
+</a>
+
+<a href="">
+ <img src="https://img.shields.io/badge/Facebook-ID-rgb(21%20166%20157)%3B?style=for-the-badge&logo=facebook&color=rgb(21%20166%20157)" alt="Facebook">
+</a>
+
+<a href="">
+ <img src="https://img.shields.io/badge/Instagram-ID-rgb(21%20166%20157)%3B?style=for-the-badge&logo=instagram&color=rgb(21%20166%20157)" alt="Instagram">
+</a>
+
+<a href="">
+ <img src="https://img.shields.io/badge/Twitter-ID-rgb(21%20166%20157)%3B?style=for-the-badge&logo=twitter&color=rgb(21%20166%20157)" alt="Twiiter">
+</a>
+
 <p align="right">(<a href="#">back to top</a>)</p>
