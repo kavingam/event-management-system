@@ -37,7 +37,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_910,f_auto,c_fit/polo-orchid-resort-cherrapunji/Presidential_Villa_..._xnmdvm)
 
 *
 *
