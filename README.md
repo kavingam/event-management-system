@@ -48,6 +48,7 @@
 
 ## About The Project
 <div align="center">
+  
     ![wedding banner](https://github.com/kavingam/event-management-system/blob/main/assets/wedding/Wedding_Venues-2.png)
     
     * Event creation and listing: Organizers can create event listings, including details like date, time, location, description, and speaker information.
