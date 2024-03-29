@@ -2,8 +2,8 @@
  
   [Event Management System](https://github.com/kavingam/event-management-system)
 
-   <a href="https://github.com/kavingam/event-management-system">
-    <img src="https://github.com/kavingam/event-management-system/blob/main/assets/icons/event-management.png" alt="Logo" width="80" height="80">
+<a href="https://github.com/kavingam/event-management-system">
+    <img src="https://github.com/kavingam/event-management-system/blob/main/assets/icons/event-management.png" alt="Logo" width="80" height="80">   
   </a>
   
   <i>code by bhaiti gam</i>
@@ -37,7 +37,9 @@
 
 ## About The Project
 
-![wedding venues](https://github.com/kavingam/event-management-system/blob/main/assets/icons/Wedding_Venues-1.png)
+<a href="https://github.com/kavingam/event-management-system">
+    <img src="https://github.com/kavingam/event-management-system/blob/main/assets/wedding/Wedding_Venues-2.png" alt="wedding card" width="720" height="1200">   
+  </a>
 
 *
 *
