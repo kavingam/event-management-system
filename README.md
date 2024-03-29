@@ -3,10 +3,43 @@
   [Event Management System](https://github.com/kavingam/event-management-system)
 
    <a href="https://github.com/kavingam/event-management-system">
-    <img src="href="https://www.flaticon.com/free-icons/event-management" alt="Logo" width="80" height="80">
+    <img src="https://github.com/kavingam/event-management-system/blob/main/assets/icons/event-management.png" alt="Logo" width="80" height="80">
   </a>
   
   <i>code by bhaiti gam</i>
 
 </div>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_910,f_auto,c_fit/polo-orchid-resort-cherrapunji/Presidential_Villa_..._xnmdvm)
+
+*
+*
+*
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
