@@ -52,7 +52,7 @@
 
     ![wedding banner](https://github.com/kavingam/event-management-system/blob/main/assets/wedding/Wedding_Venues-2.png)
     
-  
+  ## 
     * Event creation and listing: Organizers can create event listings, including details like date, time, location, description, and speaker information.
     
     * Registration and ticketing: Attendees can register for events and purchase tickets online. The system can manage different ticket types and pricing tiers.
