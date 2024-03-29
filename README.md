@@ -47,11 +47,9 @@
 </details>
 
 
-< ## About The Project
-
+ ## About The Project
+<div align="center">
 ![wedding banner](https://github.com/kavingam/event-management-system/blob/main/assets/wedding/Wedding_Venues-2.png)
-
-
 
 
 * Event creation and listing: Organizers can create event listings, including details like date, time, location, description, and speaker information.
@@ -64,6 +62,7 @@
 
 * Event logistics management: Organizers can use the system to manage tasks such as scheduling, speaker coordination, and vendor communication.
 
+</div>
 <p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- LICENSE -->
