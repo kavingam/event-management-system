@@ -66,6 +66,12 @@
   
 <p align="right">(<a href="#">back to top</a>)</p>
 
+### Built With
+
+* <img src="https://img.shields.io/badge/PHP-blue?style=plastic&logo=php&color=green" alt="php">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 ## License
 
