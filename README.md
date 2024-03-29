@@ -46,7 +46,8 @@
 * Event promotion and marketing: Organizers can use the system to promote their events through email marketing, social media integration, and online advertising.
 
 * Attendee communication: The system can be used to send automated email confirmations, reminders, and updates to attendees.
-Event logistics management: Organizers can use the system to manage tasks such as scheduling, speaker coordination, and vendor communication.
+
+* Event logistics management: Organizers can use the system to manage tasks such as scheduling, speaker coordination, and vendor communication.
 
 
 <p align="right">(<a href="#">back to top</a>)</p>
