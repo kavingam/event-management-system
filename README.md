@@ -97,7 +97,7 @@
 
 ### Installation
 
-1.  Download Git
+1. Download Git
    ```git
       download git exe file
       install git.exe
