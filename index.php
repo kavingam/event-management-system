@@ -44,8 +44,11 @@
 
     </header>
     <section>
+        
+    </section>
+    <section>
         <!--  -->
-        <div class="container text-center p-5">
+        <div class="container text-center p-5 bg-gallery">
             <h1>Your Event,Your Planning</h1>
             <p class="mb-5">Get offer 30% </p>
             <div class="row p-2 justify-content-center">
