@@ -54,14 +54,92 @@
     <section>
         <div class="container">
             <div class="row">
-            <div class="col-sm-6">6</div>
-            <div class="col-sm-6">6</div>
-            <div class="col-sm-12">12</div>
-            <div class="col-sm-6">6</div>
-            <div class="col-sm-6">6</div>
-            <div class="col-sm-6">6</div>
-            <div class="col-sm-6">6</div>
-            <div class="col-sm-12">12</div>            
+            <div class="col-sm-6">
+            <div class="card text-end border-secondary h-100">
+                <div class="card-body">
+                        <h5 class="text-start card-title">Special title treatment</h5>
+                        <p class="text-start card-text">With supporting text below as a natural lead-in to additional content.</p>
+                </div>
+            </div>                    
+            </div>
+            <div class="col-sm-6">
+            <div class="card border-secondary h-100">
+                <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
+            </div>   
+            </div>
+            <div class="col-sm-12">
+                <div class="row justify-content-center text-center">
+                    <div class="col-sm-3">
+                    <dl>
+                        <dt>Milk</dt>
+                        <dd>- white cold drink</dd>
+                    </dl>
+                    </div>
+                    <div class="col-sm-3">
+                    <dl>
+                        <dt>Milk</dt>
+                        <dd>- white cold drink</dd>
+                    </dl>
+                    </div>
+                    <div class="col-sm-3">
+                    <dl>
+                        <dt>Milk</dt>
+                        <dd>- white cold drink</dd>
+                    </dl>
+                    </div>
+                    <div class="col-sm-3">
+                    <dl>
+                        <dt>Milk</dt>
+                        <dd>- white cold drink</dd>
+                    </dl>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+            <div class="card border-secondary h-100">
+                <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
+            </div>   
+            </div>
+            <div class="col-sm-6">
+            <div class="card text-end border-secondary h-100">
+                <div class="card-body">
+                        <h5 class="text-start card-title">Special title treatment</h5>
+                        <p class="text-start card-text">With supporting text below as a natural lead-in to additional content.</p>
+                </div>
+            </div>                     
+            </div>
+            <div class="col-sm-6">
+            <div class="card text-end border-secondary h-100">
+                <div class="card-body">
+                        <h5 class="text-start card-title">Special title treatment</h5>
+                        <p class="text-start card-text">With supporting text below as a natural lead-in to additional content.</p>
+                </div>
+            </div>                     
+            </div>
+            <div class="col-sm-6">
+            <div class="card border-secondary h-100">
+                <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
+            </div>                   
+            </div>
+            <div class="col-sm-12">
+            <div class="container mt-4 bg-secondary p-5 mb-5">
+                <div class="row ">
+                    <div class="col-sm-4">
+                    <div class="card border-secondary h-100">
+                        <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
+                    </div>                    
+                    </div>
+                    <div class="col">
+                    <div class="card text-end border-secondary h-100">
+                        <div class="card-body bg-secondary">
+                            <h5 class="text-start card-title">Special title treatment</h5>
+                            <p class="text-start card-text">With supporting text below as a natural lead-in to additional content.</p>
+                            <a href="#" class="btn btn-primary">Learn more</a>
+                        </div>
+                    </div>                
+                </div>
+            </div>
+            </div>            
         </div>
     </section>
     <footer>
