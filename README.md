@@ -11,12 +11,12 @@
   <p align="center">
      code by <a href="#"><img alt="kavingam" src="https://img.shields.io/badge/Github-kavingam-red?style=plastic&logo=github&color=green"></a>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/kavingam/event-management-system">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/kavingam/event-management-system/e/issues">Report Bug</a>
     ·
     <a href="https://github.com/kavingam/event-management-system/issues">Request Feature</a>
   </p>
