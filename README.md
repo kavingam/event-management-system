@@ -69,6 +69,12 @@
 ### Built With
 
 * <img src="https://img.shields.io/badge/PHP-blue?style=plastic&logo=php&color=green" alt="php">
+* <img src="https://img.shields.io/badge/Bootstrap-lastest_5.3.3v-purple?style=plastic&logo=bootstrap&color=purple" alt="bootstrap">
+* <img src="https://img.shields.io/badge/jQuery-3.7.1v-dark?style=plastic&logo=jquery&color=dark" alt="jQuery 3.7.1">
+* <img src="https://img.shields.io/badge/Javascript-blue?style=plastic&logo=javascript&color=yellow" alt="javascript">
+* <img src="https://img.shields.io/badge/HTML5-dark?style=plastic&logo=html5&color=dark" alt="html5">
+* <img src="https://img.shields.io/badge/CSS-dark?style=plastic&logo=css&color=dark" alt="css">
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
