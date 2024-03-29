@@ -65,8 +65,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+<a href="">
+  <img src="https://img.shields.io/badge/GitHub-Resource-rgb(21%20166%20157)%3B?style=for-the-badge&logo=github&color=rgb(21%20166%20157)" alt="Github">
+</a>
 
 <p align="right">(<a href="#">back to top</a>)</p>
