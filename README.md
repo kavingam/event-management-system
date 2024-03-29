@@ -113,7 +113,7 @@
       download event managemet git folder
       move to xampp/htdoc/
    ```
-5. 
+5. Run project
    ```chrome
       open chrome
       search localhost
