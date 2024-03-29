@@ -47,7 +47,6 @@
 </details>
 
 ## About The Project
-
 <p align="center">
 
     [![wedding banner]](https://github.com/kavingam/event-management-system/blob/main/assets/wedding/Wedding_Venues-2.png)
