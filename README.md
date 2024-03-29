@@ -88,19 +88,19 @@
 
 ### Prerequisites
 
-  * download xamp server 
-  ```xamp
+* Download xamp server 
+ ```xamp
     run xamp server
     start apache server
     start mysql
-  ```
+ ```
 * Download Git
-   ```git
-      download git exe file
-      install git.exe
-      search git bash
-      git bash open and type git --version
-   ```
+ ```git
+    download git exe file
+    install git.exe
+    search git bash
+    git bash open and type git --version
+ ```
 
 ### Installation
 
