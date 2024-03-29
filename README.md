@@ -97,16 +97,23 @@
 
 ### Installation
 
-
-
-1. 
-2. Clone the repo
+1.  Download Git
+   ```git
+      download git exe file
+      install git.exe
+      search git bash
+      git bash open and type git --version
+   ```
+3. Clone the repo
    ```sh
    git clone https://github.com/kavingam/event-management-system.git
    ```
-3. Install xamp server
-
-4. move the event-management-system folder to xamp htdoc folder
+4. Install xamp server
+   ```xamp
+      download event managemet git folder
+      move to xampp/htdoc/
+   ```
+5. 
    ```chrome
       open chrome
       search localhost
