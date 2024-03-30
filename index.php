@@ -114,8 +114,8 @@
         <div class="card h-100">
         <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <h5 class="card-title">Conferences and Conventions: </h5>
+            <p class="card-text">Events focused on bringing together professionals, experts, and enthusiasts in specific industries or fields for networking, learning, and collaboration. Example categories could include technology conferences, business conventions, healthcare summits, and academic symposiums.</p>
         </div>
         </div>
     </div>
@@ -123,8 +123,8 @@
         <div class="card h-100">
         <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a short card.</p>
+            <h5 class="card-title">Performing Arts and Entertainment:</h5>
+            <p class="card-text">Events featuring live performances, theatrical productions, music concerts, and cultural showcases. Categories might include music festivals, theater performances, stand-up comedy shows, and dance recitals.</p>
         </div>
         </div>
     </div>
@@ -132,8 +132,8 @@
         <div class="card h-100">
         <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+            <h5 class="card-title">Community and Social Events:</h5>
+            <p class="card-text">Events designed to bring communities together for celebrations, fundraisers, and social causes. Categories might include charity galas, cultural festivals, community picnics, and volunteer events.</p>
         </div>
         </div>
     </div>
@@ -141,8 +141,8 @@
         <div class="card h-100">
         <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <h5 class="card-title">Weddings and Celebrations: </h5>
+            <p class="card-text">Special occasions such as weddings, anniversaries, and milestone celebrations. Categories could include wedding expos, bridal shows, engagement parties, and anniversary galas.</p>
         </div>
         </div>
     </div>
