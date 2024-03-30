@@ -38,6 +38,7 @@
   height: 570px;
 }
 .title {
+  color: aliceblue;
   margin: 0;
   position: absolute;
   top: 50%;
@@ -45,6 +46,7 @@
   transform: translate(-50px,-50px);
 }
 .title-news {
+  color: aliceblue;
   margin: 0;
   position: absolute;
   top: 50%;
@@ -52,6 +54,7 @@
   transition: translate(-50px,-50px);
 }
 .browse-news  {
+  color: blueviolet;
   margin: 0;
   position: absolute;
   top: 60%;
