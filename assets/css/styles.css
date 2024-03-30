@@ -31,7 +31,11 @@
 .content {
   position: relative;
   height: 520px;
-  background-color: aqua;
+  /* background-color: aqua; */
+}
+.content img {
+  width: 100%;
+  height: 520px;
 }
 .title {
   margin: 0;
