@@ -71,7 +71,7 @@
             </div>
         </div>
     </section>
-    <section class="container mt-4">
+    <section class="container mt-5">
     <figure class="d-grid gap-2 d-md-flex justify-content-md-between">
         <h3>Browse By Category</h3>
         <p class="fw-normal">view all (10)</p>
