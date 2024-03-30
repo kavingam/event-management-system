@@ -341,9 +341,17 @@
                 </div>
                 <div class="col-sm-2">
                     <p class=""><b>Category</b></p>
+                    <a href="">Weddings and Celebrations</a>
+                    <a href="">Conferences and Conventions</a>
+                    <a href="">Performing Arts and Entertainment</a>
+                    <a href="">Community and Social Events</a>
                 </div>
                 <div class="col-sm-2">
-                <p class=""><b>Services</b></p>
+                    <p class=""><b>Services 24x7</b></p>
+                    <a href="">Venue Selection and Booking</a>
+                    <a href="">Event Planning and Coordination</a>
+                    <a href="">Budget Management</a>
+                    <a href="">Vendor Management</a>
                 </div>
                 <div class="col-sm-2">
                 <p class=""><b>Quick Link</b></p>
@@ -356,8 +364,10 @@
                 <div class="col-sm-2">
                     <p class=""><b>news later</b></p>
                     <p class="">subscribe to lastest media update</p>
-                    <input class="form-control form-control-sm" type="text" placeholder="email address" aria-label=".form-control-sm example">
-                    <button class="btn btn-success btn-sm">subscribe</button>
+                    <form>
+                        <input class="form-control form-control-sm" type="text" placeholder="email address" aria-label=".form-control-sm example">
+                        <button class="btn btn-success btn-sm mt-2">subscribe</button>
+                    </form>
                 </div>
                 <div class="col-sm-12">
                     <p class="text-center">copyright 2024</p>
@@ -406,7 +416,7 @@
                 <input type="password" id="password" name="re-password"><br>
                 <label for="re-password">Confirm Password:</label><br>
                 <input type="password" id="re-password" name="re-password"><br>
-                <input type="submit" value="Login">
+                <input type="submit" value="Register">
             </form>
             </div>
             </div>
