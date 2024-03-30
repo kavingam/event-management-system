@@ -19,7 +19,7 @@
         <a class="btn-custom" type="button" data-bs-toggle="modal" data-bs-target="#login" href="#">LOGIN</a>
         <a class="btn-custom" type="button" data-bs-toggle="modal" data-bs-target="#signup" href="#">SIGNUP</a>
     </figure>
-    <nav class="navbar navbar-expand-lg nav-custom">
+    <nav class="navbar navbar-expand-lg nav-custom ">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">KHOT / Event Management</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -45,6 +45,7 @@
     </header>
     <section class="container">
         <div class="content">
+            <img src="assets/img/slide-1.jpg" alt="banner">
             <h1 class="title">Your Event,Your Planning</h1>
             <p class="title-news">Get offer 30% </p>
             <div class="browse-news row p-2 justify-content-center">
