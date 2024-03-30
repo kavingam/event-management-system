@@ -19,7 +19,7 @@
         <a class="btn-custom" type="button" data-bs-toggle="modal" data-bs-target="#login" href="#">LOGIN</a>
         <a class="btn-custom" type="button" data-bs-toggle="modal" data-bs-target="#signup" href="#">SIGNUP</a>
     </figure>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary nav-custom">
+    <nav class="navbar navbar-expand-lg nav-custom">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">KHOT / Event Management</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,33 +43,29 @@
     </nav>
 
     </header>
-    <section>
-        
-    </section>
-    <section>
-        <!--  -->
-        <div class="container text-center p-5 bg-gallery">
-            <h1>Your Event,Your Planning</h1>
-            <p class="mb-5">Get offer 30% </p>
-            <div class="row p-2 justify-content-center">
-                <div class="col-sm-3 bg-dark p-2">
-                    <select class="form-select form-select-sm" aria-label="catelogry">
+    <section class="container">
+        <div class="content">
+            <h1 class="title">Your Event,Your Planning</h1>
+            <p class="title-news">Get offer 30% </p>
+            <div class="browse-news row p-2 justify-content-center">
+                <div class="col-sm-3 p-2">
+                    <select class="category-select-1" aria-label="catelogry">
                         <option selected>select category</option>
                         <option value="1"></option>
                         <option value="2"></option>
                         <option value="3"></option>
                     </select>
                 </div>
-                <div class="col-sm-3 bg-dark p-2">
-                    <select class="form-select form-select-sm" aria-label="location">
+                <div class="col-sm-3 p-2">
+                    <select class="category-select-2" aria-label="location">
                         <option selected>select location</option>
                         <option value="1"></option>
                         <option value="2"></option>
                         <option value="3"></option>
                     </select>
                 </div>
-                <div class="col-sm-3 bg-dark p-2">
-                    <button class="btn btn-success w-100">search</button>
+                <div class="col-sm-3 p-2">
+                    <button class="category-button">search</button>
                 </div>
             </div>
         </div>
