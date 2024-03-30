@@ -8,20 +8,20 @@
     <link rel="stylesheet" href="assets/css/styles.css" />
 </head>
 <body>
-    <header class="container">
+    <header class="container mt-2">
     <figure class="d-grid gap-2 d-md-flex justify-content-md-end">
-        <select class="form-select form-select-sm btn w-25" aria-label="languages">
+        <select class="select-custom" aria-label="languages">
             <option selected>us-eng</option>
             <option value="1">uk-eng</option>
             <option value="2"></option>
             <option value="3"></option>
         </select>
-        <a class="" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#login" href="#">LOGIN</a>
-        <a class="" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#signup" href="#">SIGNUP</a>
+        <a class="btn-custom" type="button" data-bs-toggle="modal" data-bs-target="#login" href="#">LOGIN</a>
+        <a class="btn-custom" type="button" data-bs-toggle="modal" data-bs-target="#signup" href="#">SIGNUP</a>
     </figure>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary nav-custom">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">KHOT / Event Management</a>
+            <a class="navbar-brand" href="/">KHOT / Event Management</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
