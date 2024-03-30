@@ -65,8 +65,8 @@
 
             <div class="navbar-nav">
                 <a class="nav-link active" aria-current="page" href="index.php">Home</a>
-                <a class="nav-link" href="service.php">Service</a>
-                <a class="nav-link" href="pricing.php">Pricing</a>
+                <a class="nav-link" href="services.php">Service</a>
+                <a class="nav-link" href="prices.php">Pricing</a>
                 <a class="nav-link" href="about.php">About</a>
                 <a class="nav-link" href="media.php">Media</a>
                 <a class="nav-link" href="contact.php">Contact Us</a>
