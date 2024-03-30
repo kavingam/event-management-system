@@ -115,13 +115,15 @@
     </div>
     </div>
     <div class="d-grid gap-2 mt-4 d-md-flex justify-content-md-center">
-        <button type="button" class="badge text-bg-secondary text-wrap btn btn-secondary btn-sm"><<</button>
-        <p class="badge text-bg-primary text-wrap">1</p>
-        <p class="badge text-bg-primary text-wrap">2</p>
-        <p class="badge text-bg-primary text-wrap">3</p>
-        <p class="">...</p>
-        <p class="badge text-bg-primary text-wrap">4</p>
-        <button type="button " class="badge text-bg-secondary text-wrap btn btn-secondary btn-sm">>></button>
+    <div class="d-grid gap-2 mt-4 d-md-flex justify-content-md-center">
+        <button type="button" class=""><<</button>
+        <button type="button" class="">1</button>
+        <button type="button" class="">2</button>
+        <button type="button" class="">3</button>
+        <button type="button" class="">...</nutton>
+        <button type="button" class="">4</button>
+        <button type="button "class="">>></button>
+    </div>
     </div>
     </section>
     <section class="container">
@@ -169,13 +171,13 @@
     </div>
     <div class="d-grid gap-2 d-md-flex mt-4 justify-content-md-center">
     <div class="d-grid gap-2 mt-4 d-md-flex justify-content-md-center">
-        <button type="button" class="btn btn-secondary" style="--bs-btn-padding-y: .10rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;"><<</button>
-        <p class="badge text-bg-primary text-wrap">1</p>
-        <p class="badge text-bg-primary text-wrap">2</p>
-        <p class="badge text-bg-primary text-wrap">3</p>
-        <p class="">...</p>
-        <p class="badge text-bg-primary text-wrap">4</p>
-        <button type="button " class="btn btn-secondary" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;">>></button>
+        <button type="button" class=""><<</button>
+        <button type="button" class="">1</button>
+        <button type="button" class="">2</button>
+        <button type="button" class="">3</button>
+        <button type="button" class="">...</nutton>
+        <button type="button" class="">4</button>
+        <button type="button "class="">>></button>
     </div>
     </div>
     </section>
