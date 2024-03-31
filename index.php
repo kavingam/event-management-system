@@ -419,8 +419,11 @@
                         <button class="btn btn-success btn-sm mt-2">subscribe</button>
                     </form>
                 </div>
-                <div class="col-sm-12">
-                    <p class="text-center">copyright 2024</p>
+              <div class="col-sm-12">
+                 <div class="footer-content mt-2">
+                    <p class="cp-text">
+                        © Copyright 2024 KHOT. All rights reserved.
+                    </p>
                 </div>
             </div>
         </div>
