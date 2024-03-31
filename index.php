@@ -112,7 +112,7 @@
     <div class="row row-cols-1 row-cols-md-4 g-4">
     <div class="col">
         <div class="card h-100">
-        <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
+        <img src="assets/wedding/Wedding_Venues-0.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Conferences and Conventions: </h5>
             <p class="card-text">Events focused on bringing together professionals, experts, and enthusiasts in specific industries or fields for networking, learning, and collaboration. Example categories could include technology conferences, business conventions, healthcare summits, and academic symposiums.</p>
@@ -121,7 +121,7 @@
     </div>
     <div class="col">
         <div class="card h-100">
-        <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
+        <img src="assets/wedding/Wedding_Venues-1.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Performing Arts and Entertainment:</h5>
             <p class="card-text">Events featuring live performances, theatrical productions, music concerts, and cultural showcases. Categories might include music festivals, theater performances, stand-up comedy shows, and dance recitals.</p>
@@ -130,7 +130,7 @@
     </div>
     <div class="col">
         <div class="card h-100">
-        <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
+        <img src="assets/wedding/Wedding_Venues-2.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Community and Social Events:</h5>
             <p class="card-text">Events designed to bring communities together for celebrations, fundraisers, and social causes. Categories might include charity galas, cultural festivals, community picnics, and volunteer events.</p>
@@ -139,7 +139,7 @@
     </div>
     <div class="col">
         <div class="card h-100">
-        <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
+        <img src="assets/wedding/Wedding_Venues-3.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Weddings and Celebrations: </h5>
             <p class="card-text">Special occasions such as weddings, anniversaries, and milestone celebrations. Categories could include wedding expos, bridal shows, engagement parties, and anniversary galas.</p>
