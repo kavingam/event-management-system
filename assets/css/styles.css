@@ -102,3 +102,9 @@
   left: 323px;
   position: absolute;
 }
+.footer-content {
+  background: #e7ef8b;
+  text-align: center;
+  padding: 1%;
+  font-size: 14px;
+}
