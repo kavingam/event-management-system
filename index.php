@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php echo "php"; ?>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,22 +6,55 @@
     <title>KHOT | Event Management System </title>
     <link rel="stylesheet" href="assets/bootstrap-5.3.3-dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/styles.css" />
+    <style>
+        form {
+            width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px #ccc;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        input[type="text"], input[type="password"],input[type="email"] {
+            width: 100%;
+            padding: 5px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0px 0px 2px #ccc;
+        }
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }    
+    </style>
 </head>
 <body>
-    <header class="container">
+    <header class="container mt-2">
     <figure class="d-grid gap-2 d-md-flex justify-content-md-end">
-        <select class="form-select form-select-sm btn w-25" aria-label="languages">
+        <select class="select-custom" aria-label="languages">
             <option selected>us-eng</option>
             <option value="1">uk-eng</option>
             <option value="2"></option>
             <option value="3"></option>
         </select>
-        <a class="" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#login" href="#">LOGIN</a>
-        <a class="" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#signup" href="#">SIGNUP</a>
+        <a class="btn-custom" type="button" data-bs-toggle="modal" data-bs-target="#login" href="#">LOGIN</a>
+        <a class="btn-custom" type="button" data-bs-toggle="modal" data-bs-target="#signup" href="#">SIGNUP</a>
     </figure>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg nav-custom ">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">KHOT / Event Management</a>
+            <a class="navbar-brand" href="/">KHOT / Event Management</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -32,8 +65,8 @@
 
             <div class="navbar-nav">
                 <a class="nav-link active" aria-current="page" href="index.php">Home</a>
-                <a class="nav-link" href="service.php">Service</a>
-                <a class="nav-link" href="pricing.php">Pricing</a>
+                <a class="nav-link" href="services.php">Service</a>
+                <a class="nav-link" href="prices.php">Pricing</a>
                 <a class="nav-link" href="about.php">About</a>
                 <a class="nav-link" href="media.php">Media</a>
                 <a class="nav-link" href="contact.php">Contact Us</a>
@@ -43,35 +76,35 @@
     </nav>
 
     </header>
-    <section>
-        <!--  -->
-        <div class="container text-center p-5">
-            <h1>Your Event,Your Planning</h1>
-            <p class="mb-5">Get offer 30% </p>
-            <div class="row p-2 justify-content-center">
-                <div class="col-sm-3 bg-dark p-2">
-                    <select class="form-select form-select-sm" aria-label="catelogry">
+    <section class="container">
+        <div class="content">
+            <img src="assets/img/slide-1.jpg" alt="banner">
+            <h1 class="title">Your Event,Your Planning</h1>
+            <p class="title-news">Get offer 30% </p>
+            <div class="browse-news row p-2 justify-content-center">
+                <div class="col-sm-3 p-2">
+                    <select class="category-select-1" aria-label="catelogry">
                         <option selected>select category</option>
                         <option value="1"></option>
                         <option value="2"></option>
                         <option value="3"></option>
                     </select>
                 </div>
-                <div class="col-sm-3 bg-dark p-2">
-                    <select class="form-select form-select-sm" aria-label="location">
+                <div class="col-sm-3 p-2">
+                    <select class="category-select-2" aria-label="location">
                         <option selected>select location</option>
                         <option value="1"></option>
                         <option value="2"></option>
                         <option value="3"></option>
                     </select>
                 </div>
-                <div class="col-sm-3 bg-dark p-2">
-                    <button class="btn btn-success w-100">search</button>
+                <div class="col-sm-3 p-2">
+                    <button class="category-button">search</button>
                 </div>
             </div>
         </div>
     </section>
-    <section class="container mt-4">
+    <section class="container mt-5">
     <figure class="d-grid gap-2 d-md-flex justify-content-md-between">
         <h3>Browse By Category</h3>
         <p class="fw-normal">view all (10)</p>
@@ -79,49 +112,51 @@
     <div class="row row-cols-1 row-cols-md-4 g-4">
     <div class="col">
         <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="assets/wedding/Wedding_Venues-0.png" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <h5 class="card-title">Conferences and Conventions: </h5>
+            <p class="card-text">Events focused on bringing together professionals, experts, and enthusiasts in specific industries or fields for networking, learning, and collaboration. Example categories could include technology conferences, business conventions, healthcare summits, and academic symposiums.</p>
         </div>
         </div>
     </div>
     <div class="col">
         <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="assets/wedding/Wedding_Venues-1.png" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a short card.</p>
+            <h5 class="card-title">Performing Arts and Entertainment:</h5>
+            <p class="card-text">Events featuring live performances, theatrical productions, music concerts, and cultural showcases. Categories might include music festivals, theater performances, stand-up comedy shows, and dance recitals.</p>
         </div>
         </div>
     </div>
     <div class="col">
         <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="assets/wedding/Wedding_Venues-2.png" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+            <h5 class="card-title">Community and Social Events:</h5>
+            <p class="card-text">Events designed to bring communities together for celebrations, fundraisers, and social causes. Categories might include charity galas, cultural festivals, community picnics, and volunteer events.</p>
         </div>
         </div>
     </div>
     <div class="col">
         <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="assets/wedding/Wedding_Venues-3.png" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <h5 class="card-title">Weddings and Celebrations: </h5>
+            <p class="card-text">Special occasions such as weddings, anniversaries, and milestone celebrations. Categories could include wedding expos, bridal shows, engagement parties, and anniversary galas.</p>
         </div>
         </div>
     </div>
     </div>
     <div class="d-grid gap-2 mt-4 d-md-flex justify-content-md-center">
-        <button type="button" class="badge text-bg-secondary text-wrap btn btn-secondary btn-sm"><<</button>
-        <p class="badge text-bg-primary text-wrap">1</p>
-        <p class="badge text-bg-primary text-wrap">2</p>
-        <p class="badge text-bg-primary text-wrap">3</p>
-        <p class="">...</p>
-        <p class="badge text-bg-primary text-wrap">4</p>
-        <button type="button " class="badge text-bg-secondary text-wrap btn btn-secondary btn-sm">>></button>
+    <div class="d-grid gap-2 mt-4 d-md-flex justify-content-md-center">
+        <button type="button" class=""><<</button>
+        <button type="button" class="">1</button>
+        <button type="button" class="">2</button>
+        <button type="button" class="">3</button>
+        <button type="button" class="">...</nutton>
+        <button type="button" class="">4</button>
+        <button type="button "class="">>></button>
+    </div>
     </div>
     </section>
     <section class="container">
@@ -141,7 +176,7 @@
     </div>
     <div class="col">
         <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">This is a short card.</p>
@@ -150,7 +185,7 @@
     </div>
     <div class="col">
         <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
@@ -159,7 +194,7 @@
     </div>
     <div class="col">
         <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -169,13 +204,13 @@
     </div>
     <div class="d-grid gap-2 d-md-flex mt-4 justify-content-md-center">
     <div class="d-grid gap-2 mt-4 d-md-flex justify-content-md-center">
-        <button type="button" class="btn btn-secondary" style="--bs-btn-padding-y: .10rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;"><<</button>
-        <p class="badge text-bg-primary text-wrap">1</p>
-        <p class="badge text-bg-primary text-wrap">2</p>
-        <p class="badge text-bg-primary text-wrap">3</p>
-        <p class="">...</p>
-        <p class="badge text-bg-primary text-wrap">4</p>
-        <button type="button " class="btn btn-secondary" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;">>></button>
+        <button type="button" class=""><<</button>
+        <button type="button" class="">1</button>
+        <button type="button" class="">2</button>
+        <button type="button" class="">3</button>
+        <button type="button" class="">...</nutton>
+        <button type="button" class="">4</button>
+        <button type="button "class="">>></button>
     </div>
     </div>
     </section>
@@ -211,7 +246,7 @@
         <div class="row row-cols-1 row-cols-md-4 g-4">
             <div class="col">
                 <div class="card h-100">
-                <img src="..." class="card-img-top" alt="...">
+                <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -223,7 +258,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                <img src="..." class="card-img-top" alt="...">
+                <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -235,7 +270,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                <img src="..." class="card-img-top" alt="...">
+                <img src="assets/img/slide-0.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
@@ -306,9 +341,17 @@
                 </div>
                 <div class="col-sm-2">
                     <p class=""><b>Category</b></p>
+                    <a href="">Weddings and Celebrations</a>
+                    <a href="">Conferences and Conventions</a>
+                    <a href="">Performing Arts and Entertainment</a>
+                    <a href="">Community and Social Events</a>
                 </div>
                 <div class="col-sm-2">
-                <p class=""><b>Services</b></p>
+                    <p class=""><b>Services 24x7</b></p>
+                    <a href="">Venue Selection and Booking</a>
+                    <a href="">Event Planning and Coordination</a>
+                    <a href="">Budget Management</a>
+                    <a href="">Vendor Management</a>
                 </div>
                 <div class="col-sm-2">
                 <p class=""><b>Quick Link</b></p>
@@ -321,8 +364,10 @@
                 <div class="col-sm-2">
                     <p class=""><b>news later</b></p>
                     <p class="">subscribe to lastest media update</p>
-                    <input class="form-control form-control-sm" type="text" placeholder="email address" aria-label=".form-control-sm example">
-                    <button class="btn btn-success btn-sm">subscribe</button>
+                    <form>
+                        <input class="form-control form-control-sm" type="text" placeholder="email address" aria-label=".form-control-sm example">
+                        <button class="btn btn-success btn-sm mt-2">subscribe</button>
+                    </form>
                 </div>
                 <div class="col-sm-12">
                     <p class="text-center">copyright 2024</p>
@@ -340,7 +385,13 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                
+            <form>
+                <label for="username">Username:</label><br>
+                <input type="text" id="username" name="username"><br>
+                <label for="password">Password:</label><br>
+                <input type="password" id="password" name="password"><br>
+                <input type="submit" value="Login">
+            </form>                
             </div>
             </div>
         </div>
@@ -356,7 +407,17 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                
+            <form>
+                <label for="username">Username:</label><br>
+                <input type="text" id="username" name="username"><br>
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email"><br>
+                <label for="password">Password:</label><br>
+                <input type="password" id="password" name="re-password"><br>
+                <label for="re-password">Confirm Password:</label><br>
+                <input type="password" id="re-password" name="re-password"><br>
+                <input type="submit" value="Register">
+            </form>
             </div>
             </div>
         </div>
