@@ -7,7 +7,7 @@
    <h3 align="center">Event Management System</h3>
 
   <p align="center">
-     code by <a href="#"><img alt="kavingam" src="https://img.shields.io/badge/Github-kavingam-red?style=plastic&logo=github&color=green"></a>
+     code by<img alt="kavingam" src="https://img.shields.io/badge/Github-kavingam-red?style=plastic&logo=github&color=green">
     <br />
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
